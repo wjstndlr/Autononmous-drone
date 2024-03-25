@@ -23,6 +23,7 @@ project1-keyboardcontrolimagecapture.py
 
 # 얼굴 추적을 위해 실행
 python FaceTracking.py
+
 [![얼굴인식](https://github.com/wjstndlr/Autononmous-drone/assets/123084818/b47eb75a-ac88-4891-8285-4d16e4aed64b)](https://www.youtube.com/shorts/v4aAWXBdpA8)
 
 # 객체 추적을 위해 실행
