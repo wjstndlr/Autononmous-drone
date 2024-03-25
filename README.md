@@ -14,3 +14,19 @@
 
 ## 성과
 이 프로젝트는 실제 환경에서의 테스트를 거쳐 그 유효성이 검증되었습니다. 또한, 통합된 기술 스택은 복잡한 환경에서의 유연한 대응을 가능하게 하며, 스스로 파라미터를 조정하고 그 환경에서 가장 최적화된 값을 찾아보는 값진 경험을 통해서 이후 엔지니어로 성장하는 데 좋은 발판이 되는 개인프로젝트 였다.
+
+## 실행
+# 키보드에 따른 드론 제어 및 이미지 스트리밍을 위해 project1-keyboardcontrolimagecapture.py 스크립트를 실행합니다.
+project1-keyboardcontrolimagecapture.py 
+
+# 얼굴 추적을 위해 FaceTracking.py 스크립트를 실행합니다.
+python FaceTracking.py
+
+# 객체 추적을 위해 ObjectTracking.py 스크립트를 실행합니다.
+python ObjectTracking.py
+
+# 색상 추적을 위해 ColorPicker.py 스크립트를 실행합니다.
+python ColorPicker.py
+
+# 거리 측정을 위해 FaceDistanceMeasurement.py 스크립트를 실행합니다.
+python FaceDistanceMeasurement.py
