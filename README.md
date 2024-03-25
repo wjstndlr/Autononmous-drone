@@ -18,12 +18,15 @@
 ## 실행
 # 키보드에 따른 드론 제어 및 이미지 스트리밍 실행
 project1-keyboardcontrolimagecapture.py 
+[![tello 자율비행 영상](http://img.youtube.com/vi/vpjdDePQwO4/0.jpg)](https://www.youtube.com/watch?v=vpjdDePQwO4)
 
 # 얼굴 추적을 위해 실행
 python FaceTracking.py
 
+
 # 객체 추적을 위해 실행
 python ObjectTracking.py
+[![tello 자율비행 영상](http://img.youtube.com/vi/IkuxG3oZ6kA/0.jpg)](https://www.youtube.com/watch?v=IkuxG3oZ6kA)
 
 # 색상 추적을 위해 실행
 python ColorPicker.py
