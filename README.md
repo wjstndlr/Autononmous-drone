@@ -17,7 +17,7 @@
 
 ## 실행
 # 키보드에 따른 드론 제어 및 이미지 스트리밍 실행
-project1-keyboardcontrolimagecapture.py
+python project1-keyboardcontrolimagecapture.py
 
 [![tello 자율비행 영상](http://img.youtube.com/vi/vpjdDePQwO4/0.jpg)](https://www.youtube.com/watch?v=vpjdDePQwO4)
 
